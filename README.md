@@ -23,5 +23,6 @@ A folder with the output inp file should be found in the `reports` folder in the
 
 ### Who do I talk to? ###
 
-Code Creator: Hammid Ebrahimi <hamid.ebrahimi@mail.utoronto.ca\>, Saied Samiezadeh <saeid.samiezadeh@ryerson.ca\>
-Code Maintainer: Frankie (Hoi-Ki) Tong <frankietong@hotmail.com\>
+Code Creator: Hammid Ebrahimi [hamid.ebrahimi@mail.utoronto.ca], Saied Samiezadeh [saeid.samiezadeh@ryerson.ca]
+
+Code Maintainer: Frankie (Hoi-Ki) Tong [frankietong@hotmail.com\]
