@@ -60,11 +60,7 @@ This program is designed for use on LINUX based systems.
 			
 """
 #YOU MUST CHANGE#####################################
-#inputName= "Real_Section_with_large_set_37"
-#inputName= "Real_Section_with_set_28"
-#inputName= "Rat_721_full_w_damage_z"
-#inputName = "Rat_721_partial_w_damage"
-inputName = "739_coh"
+inputName = "Rat_721_partial_w_dam_smal"
 
 #YOU CAN CHANGE######################################
 core = 8 
