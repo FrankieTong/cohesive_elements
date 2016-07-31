@@ -4,7 +4,7 @@ This README is a for the usage of the cohesive_element module. Check the `V16 SO
 
 ### How do I get set up? ###
 
-This program was built using Python v2.9.7 on a LINUX based system
+This program was built using Python v2.9.7 on a LINUX based system due to how LINUX handles global variables between multiple processes as shared memory when used in a read only fashion.
 
 ### Running the Program ###
 
@@ -25,4 +25,4 @@ A folder with the output inp file should be found in the `reports` folder in the
 
 Code Creator: Hammid Ebrahimi [hamid.ebrahimi@mail.utoronto.ca], Saied Samiezadeh [saeid.samiezadeh@ryerson.ca]
 
-Code Maintainer: Frankie (Hoi-Ki) Tong [frankietong@hotmail.com\]
+Code Maintainer: Frankie (Hoi-Ki) Tong [frankietong@hotmail.com]
